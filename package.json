@@ -1,0 +1,14 @@
+{
+    "name":"library",
+    "version":"1.0.0",
+    "description":"Using mongodb for a Library",
+    "main":"index.js",
+    "scripts":{
+        "test":"npm test"
+    },
+    "author":"Max Crookshanks",
+    "license": "ISC",
+    "dependencies": {
+        "mongodb":"3.5.9"
+    }
+}
